@@ -1,4 +1,4 @@
-	Command being timed: "./stl_list_operations.out"
+	Command being timed: "./stl_lists_elementAccess_iterators.out"
 	User time (seconds): 0.00
 	System time (seconds): 0.00
 	Percent of CPU this job got: 100%
